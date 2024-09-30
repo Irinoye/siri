@@ -38,38 +38,42 @@ To start the server, run the following command:
 
 The application will be accessible at http://localhost:3000.
 
-Project Structure
-   ```bash
-   /speech-recognition-app
-      /public
+### Project Structure
+    ```bash
+      /speech-recognition-app
+         /public
          - index.html       # Main HTML file
          - app.js           # Client-side JavaScript file for speech recognition and synthesis
-      - app.mjs             # Server-side JavaScript file for Express
-      - package.json        # Project metadata and dependencies
+       - app.mjs             # Server-side JavaScript file for Express
+       - package.json        # Project metadata and dependencies
 
-Usage
+### Usage
 Open your browser and navigate to http://localhost:3000.
+
 Click the "Start" button to begin speech recognition.
+
 Speak into your microphone, and your speech will be transcribed in real-time.
+
 The application will also read back your spoken text for feedback.
-Contributing
+
+### Contributing
 Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 Web Speech API for providing speech recognition and synthesis capabilities.
 Express.js for the backend server framework.
 Feel free to reach out if you have any questions or need further assistance!
 
-markdown
+### markdown
    ```bash
 
-   ### How to Customize
-   1. Replace `your-username` in the clone command with your actual GitHub username.
-   2. Modify the project features, installation instructions, or any sections to fit your project specifics.
-   3. If you have any licenses or acknowledgments, include them in the appropriate sections.
+     ### How to Customize
+    1. Replace `your-username` in the clone command with your actual GitHub username.
+    2. Modify the project features, installation instructions, or any sections to fit your project specifics.
+    3. If you have any licenses or acknowledgments, include them in the appropriate sections.
 
 
 
