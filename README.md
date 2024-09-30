@@ -27,26 +27,26 @@ The Speech Recognition Web App is a simple application that utilizes modern web 
    git clone https://github.com/Irinoye/siri.git
    cd speech-recognition-app
 
-2. Install dependencies:
-```bash
-npm install
+2.  Install dependencies:
+   ```bash
+   npm install
 
 3. Running the App
 To start the server, run the following command:
 
-```bash
-npm start
+   ```bash
+   npm start
 
 The application will be accessible at http://localhost:3000.
 
 Project Structure
-```bash
-/speech-recognition-app
-   /public
-      - index.html       # Main HTML file
-      - app.js           # Client-side JavaScript file for speech recognition and synthesis
-   - app.mjs             # Server-side JavaScript file for Express
-   - package.json        # Project metadata and dependencies
+   ```bash
+   /speech-recognition-app
+      /public
+         - index.html       # Main HTML file
+         - app.js           # Client-side JavaScript file for speech recognition and synthesis
+      - app.mjs             # Server-side JavaScript file for Express
+      - package.json        # Project metadata and dependencies
 
 Usage
 Open your browser and navigate to http://localhost:3000.
@@ -65,14 +65,13 @@ Express.js for the backend server framework.
 Feel free to reach out if you have any questions or need further assistance!
 
 markdown
-```bash
+   ```bash
 
-### How to Customize
-1. Replace `your-username` in the clone command with your actual GitHub username.
-2. Modify the project features, installation instructions, or any sections to fit your project specifics.
-3. If you have any licenses or acknowledgments, include them in the appropriate sections.
+   ### How to Customize
+   1. Replace `your-username` in the clone command with your actual GitHub username.
+   2. Modify the project features, installation instructions, or any sections to fit your project specifics.
+   3. If you have any licenses or acknowledgments, include them in the appropriate sections.
 
-Let me know if you need any further modifications or additional sections!
 
 
 
