@@ -39,7 +39,7 @@ To start the server, run the following command:
 The application will be accessible at http://localhost:3000.
 
 ### Project Structure
-    ```bash
+
       /speech-recognition-app
          /public
          - index.html       # Main HTML file
