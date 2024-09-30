@@ -1,0 +1,19 @@
+{
+    "name": "speech-recognition-app",
+    "version": "1.0.0",
+    "description": "A speech recognition web app",
+    "main": "app.mjs",
+    "scripts": {
+      "start": "node app.mjs",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "serve-static": "^1.14.1"
+    },
+    "type": "module"
+      
+}
