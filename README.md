@@ -26,10 +26,9 @@ The Speech Recognition Web App is a simple application that utilizes modern web 
    ```bash
    git clone https://github.com/Irinoye/siri.git
    cd speech-recognition-app
-
 2.  Install dependencies:
-   ```bash
-   npm install
+    ```bash
+     npm install
 
 3. Running the App
 To start the server, run the following command:
